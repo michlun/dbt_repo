@@ -1,0 +1,10 @@
+version 2:
+
+sources:
+  - name: staging
+    database: awesome-nimbus-412522
+    schema: taxi_rides_2019_2020
+
+    tables:
+      - name: green
+      - name: yellow
